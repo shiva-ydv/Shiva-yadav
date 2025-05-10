@@ -1,3 +1,4 @@
+![logo](https://t3.ftcdn.net/jpg/04/57/93/78/360_F_457937822_6guyVRMr4cCdCr36zPg7Er7WRaf0FbSn.jpg)
 <h1 align="center">Hi 👋, I'm Shiva yadav</h1>
 <h3 align="center">A passionate frontend developer from India & DevOps Learner | Building Scalable Apps & Cloud Solutions ☁️</h3>
 <img align="right" alt="Coding" width="400px" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif"
